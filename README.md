@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lynx</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Karthi</h1>
+<h3 align="center">A Passionate Developer & Medical Student from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=lynxdevv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-🔭 I’m currently working on CalDa<br><br>🌱 I’m currently learning Python, ReactJS<br><br>🤝 I’m looking for free virtual servers for Comet Development<br><br>👨‍💻 All of my projects are available at https://lynxdev.tk<br><br>📝 I regularly write articles on https://www.ktechy.eu.org<br><br>💬 Ask me about JavaScript, TypeScript, HTML & CSS, etc<br><br>📫 How to reach me karthikeyan19e@gmail.com<br><br>⚡ Fun fact Dead skin cells are a main ingredient in household dust
+🔭 I’m currently on 2nd Year MBBS<br><br>🌱 I’m currently learning Python, ReactJS<br><br>🤝 I’m looking for nerdy people to build some fantastic tech with<br><br>👨‍💻 All of my projects are available at https://lynxdev.tk<br><br>📝 I soemtimes write articles on https://www.ktechy.eu.org<br><br>💬 Ask me about JavaScript, TypeScript, HTML & CSS, etc<br><br>📫 How to reach me karthikeyan19e@gmail.com<br><br>⚡ Fun fact Dead skin cells are a main ingredient in household dust
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.com/invite/NJ4VXY8KMA)
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lynxvdevv)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lynxdevv)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthi19cool)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthi_el)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC4I7WfiKX9209OIHCYO4Vwg) 
 
 # 💻 Tech Stack:
